@@ -32,7 +32,7 @@ Working toward becoming a skilled software engineer and building projects that m
 
 ## Current Focus 
 
-Solving DSA Daily • Building Full-Stack Apps • Learning Backend Systems • Learning System Design • Preparing for SWE Roles • Product-Based Engineer
+Solving DSA Daily | Building Full-Stack Apps | Learning Backend Systems • Learning System Design • Preparing for SWE Roles • Product-Based Engineer
 
 ---
 
