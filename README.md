@@ -30,6 +30,18 @@ Working toward becoming a skilled software engineer and building projects that m
 
 ---
 
+## Current Focus 
+
+Solving DSA Daily • Building Full-Stack Apps • Learning Backend Systems • Learning System Design • Preparing for SWE Roles • Product-Based Engineer
+
+---
+
+## Coding Journey
+
+500+ Problems Solved • Competitive Programming • Consistent DSA Practice • Building Real Projects 
+
+---
+
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
